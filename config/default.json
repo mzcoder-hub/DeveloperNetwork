@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://devuser:mastergalang@devconnector-abwmy.mongodb.net/devcon?retryWrites=true&w=majority",
+	"jwtSecret": "TheToken"
+}
