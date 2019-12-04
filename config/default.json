@@ -1,4 +1,6 @@
 {
 	"mongoURI": "mongodb+srv://devuser:mastergalang@devconnector-abwmy.mongodb.net/devcon?retryWrites=true&w=majority",
-	"jwtSecret": "TheToken"
+	"jwtSecret": "TheToken",
+	"githubClientId": "9e19c00bca1564823da4",
+	"githubSecret": "023786b5c0924b602f19ecc02cea77ff650cd7a3"
 }
